@@ -10,10 +10,6 @@ This is a front-end clone of the [Zerodha](https://zerodha.com) homepage created
 - Navigation bar with hoverable options
 - Centered main image and sign-up button
 
-## 📸 Preview
-
-![Preview](./Images/final%20image.png)
-
 ## 🛠️ Technologies Used
 
 - HTML5
